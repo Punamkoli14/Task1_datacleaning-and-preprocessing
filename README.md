@@ -37,7 +37,7 @@ Used updated histplot() instead of deprecated distplot() for KDE visualizations.
 🔍 Key Insights
 Females had a higher chance of survival compared to males.
 Higher class passengers (Pclass 1) had better survival rates.
-Younger passengers also showed slightly better survival chances.
+Younger passengers also showed slightly better survival chances..
 
 
 
